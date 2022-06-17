@@ -1,8 +1,8 @@
 {
   "name": "essential-components",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "description": "",
-  "main": "index.ts",
+  "main": "components.ts",
   "devDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

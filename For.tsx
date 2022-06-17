@@ -8,7 +8,7 @@ interface ForProps {
 const For = (props: ForProps) => {
   const { list, each } = props
   if (list instanceof Array) return <>{list.map(each)}</>
-  throw new Error('No array')
+  else throw new Error(`'list' No array!`)
 }
 
 export default For
