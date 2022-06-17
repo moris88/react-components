@@ -1,0 +1,28 @@
+{
+  "name": "essential-components",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.ts",
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moris88/react-components.git"
+  },
+  "keywords": [],
+  "author": "moris88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moris88/react-components/issues"
+  },
+  "homepage": "https://github.com/moris88/react-components#readme"
+}
