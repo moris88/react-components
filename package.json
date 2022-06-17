@@ -1,18 +1,12 @@
 {
   "name": "essential-components",
-  "version": "0.0.9",
+  "version": "0.0.13",
   "description": "",
-  "main": "components.ts",
-  "devDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
+  "main": "index.js",
+  "types": "index.d.ts",
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
